@@ -200,7 +200,7 @@ layout: false
 .right-column[
 - 日付欄を作成します。入力は省略可とします
   - 「必須」にしない
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/Google Forms/クリップボード05_GoogleForm_1 日付.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/Google%20Forms/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8905_GoogleForm_1%20%E6%97%A5%E4%BB%98.png?raw=true" width="60%">
 ]
 
 ---
@@ -215,7 +215,7 @@ layout: false
   - 入力は「必須」です
   - 値の範囲は、1 から 5 とします
   - 1 と 5 の値の説明を入力できるので、それぞれ「助かった」「命の恩人」にしておきます
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/Google Forms/クリップボード06_GoogleForm_2 感謝度.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/Google%20Forms/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8906_GoogleForm_2%20%E6%84%9F%E8%AC%9D%E5%BA%A6.png?raw=true" width="60%">
 ]
 
 ---
@@ -230,7 +230,7 @@ layout: false
   - 入力は「必須」です
   - 複数選択可能なチェックボックスにします
   - 「その他」を有りにしておきます
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/Google Forms/クリップボード07_GoogleForm_3 対象.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/Google%20Forms/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8907_GoogleForm_3%20%E5%AF%BE%E8%B1%A1.png?raw=true" width="60%">
 ]
 
 ---
@@ -244,7 +244,7 @@ layout: false
 .right-column[
 - 備考欄を作成します
   - 入力は必須ではありません
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/Google Forms/クリップボード08_GoogleForm_4 備考.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/Google%20Forms/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8908_GoogleForm_4%20%E5%82%99%E8%80%83.png?raw=true" width="60%">
 
 ]
 ---
@@ -267,7 +267,7 @@ layout: false
 .right-column[
 - データの保存先を作成します。
   - ここでは「新規スプレッドシートを作成」しました。
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/Google Forms/クリップボード10_GoogleForm_回答 入力先作成.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/Google%20Forms/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8910_GoogleForm_%E5%9B%9E%E7%AD%94%20%E5%85%A5%E5%8A%9B%E5%85%88%E4%BD%9C%E6%88%90.png?raw=true" width="60%">
 ]
 
 ---
@@ -282,7 +282,7 @@ layout: false
   - 集計処理したデータを格納するシート「DATA1」「DATA2」を作ります。
   - 感謝対象となる人名のリストを格納するシート「対象リスト」を作ります。
      - 「対象リスト」内には、人名のリストを格納しておきます。
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/Google Sheet/クリップボード_作成するシート.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/Google%20Sheet/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%89_%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E3%82%B7%E3%83%BC%E3%83%88.png?raw=true" width="60%">
 
 ]
 ---
@@ -303,7 +303,7 @@ layout: false
 .right-column[
 - データ入力先のシートから、スクリプト編集画面を開きます。
   - 「ツール」「スクリプトエディタ」を選択します
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/GoogleAppScript/クリップボード11_GoogleSpreadSheet_回答データ先.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/GoogleAppScript/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8911_GoogleSpreadSheet_%E5%9B%9E%E7%AD%94%E3%83%87%E3%83%BC%E3%82%BF%E5%85%88.png?raw=true" width="60%">
 ]
 
 ---
@@ -314,7 +314,7 @@ layout: false
 .right-column[
 - スクリプト編集画面が開きましたら、集計処理スクリプトを作ります。
 
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/GoogleAppScript/クリップボード12_GoogleAppScript_データ集計スクリプト.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/GoogleAppScript/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8912_GoogleAppScript_%E3%83%87%E3%83%BC%E3%82%BF%E9%9B%86%E8%A8%88%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88.png?raw=true" width="60%">
 ]
 
 ---
@@ -324,6 +324,7 @@ layout: false
 ]
 .right-column[
 - スクリプトは [ソースコード](slides/thanks-system/src/daily.js) を参照下さい
+  - slides/thanks-system/src/daily.js
   - 定期的に呼び出される関数 doDaily() と、集計関数 make_DATA1、make_DATA2 が主な内容です。
 
 ```Javascript:daily.gs
@@ -552,7 +553,7 @@ function _trimString(src){
 - 定期的に実行する設定を行います。
 - スクリプト編集画面で、メニューから「編集」「現在のプロジェクトのトリガー」を選択します。
 
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/GoogleAppScript/クリップボード35_現在のプロジェクトのトリガー.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/GoogleAppScript/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8935_%E7%8F%BE%E5%9C%A8%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC.png?raw=true" width="60%">
 ]
 
 ---
@@ -563,7 +564,7 @@ function _trimString(src){
 ]
 .right-column[
 - 「トリガーを追加」を押下します。
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/GoogleAppScript/クリップボード36_トリガーを追加.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/GoogleAppScript/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8936_%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC%E3%82%92%E8%BF%BD%E5%8A%A0.png?raw=true" width="60%">
 
 ]
 
@@ -579,7 +580,7 @@ function _trimString(src){
   - イベントのソースは「スプレッドシート」にします。
   - イベントの種類を「フォーム送信時」にします。
 - この設定により、Google Forms の入力完了でスプレッドシートの内容が更新されると、関数 doDaily が実行されるようになります。
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/GoogleAppScript/クリップボード37_起動設定.png" height="50%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/GoogleAppScript/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8936_%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC%E3%82%92%E8%BF%BD%E5%8A%A0.png?raw=true" height="50%">
 
 ]
 
@@ -602,7 +603,7 @@ function _trimString(src){
   - [レポートサンプルはこちら](https://datastudio.google.com/reporting/7be71e00-f388-4c5e-b32f-979d6245b3ef)
 
 - 作成イメージ
-  - <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/データポータル/2020-03-19 10.32.19_300_.png" width="60%">
+  - <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB/2020-03-19%2010.32.19_300_.png?raw=true" width="60%">
 
 ]
 
@@ -615,7 +616,7 @@ function _trimString(src){
 - [Google データポータル](https://datastudio.google.com/) を開きます。
 
 - 「空のレポート」を押下して、新しいレポートを作成します。
-  - <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/データポータル/クリップボード31_Googleデータポータル.png" width="60%">
+  - <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8931_Google%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB.png?raw=true" width="60%">
 
 ]
 
@@ -639,7 +640,7 @@ function _trimString(src){
 ]
 .right-column[
 - メニューから「グラフの追加」「ツリーマップ」を選択します。
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/データポータル/クリップボード03.png" height="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8903.png?raw=true" height="60%">
 
 ]
 
@@ -651,7 +652,7 @@ function _trimString(src){
 ]
 .right-column[
 - レポートに配置した後、設定を画像のように変更します。
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/データポータル/クリップボード02.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8902.png?raw=true" width="60%">
 ]
 
 ---
@@ -672,7 +673,7 @@ function _trimString(src){
 ]
 .right-column[
 - 自動的に、各列内で高い値の色が濃く表示されます。
-- <img src="https://kokih-dev.github.io/slides/slides/thanks-system/images/データポータル/クリップボード01.png" width="60%">
+- <img src="https://github.com/koki-chuo/slides/blob/gh-pages/slides/thanks-system/images/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%8901.png?raw=true" width="60%">
 ]
 
 ---
